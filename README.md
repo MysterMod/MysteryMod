@@ -1,2 +1,2 @@
-# MysteryMod
+# GrieferAddons
 MysteryMod for Griefergames
